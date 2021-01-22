@@ -1,0 +1,3 @@
+Lee, Sarah B 45678 F 10 (999)333-5554 323 Sunset Blvd , Sun Prairie, WI 53590
+Smith, John L 99999 M 07 (999)333-5555 123 Nowhere St , Madison, WI 53704
+Thompson, Jerry 23232 M 09 (999)333-5553 24721 Elsewhere Ct , Milwaukee, WI 53211
